@@ -1,0 +1,10 @@
+{
+  "Author": "UnderMybrella",
+  "Name": "SpeakingWay",
+  "Description": "Replaces dialogue with other dialogue",
+  "Punchline": "Words at your fingertips",
+  "InternalName": "SpeakingWay",
+  "AssemblyVersion": "2.0.0.0",
+  "ApplicableVersion": "any",
+  "Tags": [ ]
+}
